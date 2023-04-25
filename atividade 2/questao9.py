@@ -1,5 +1,5 @@
 def FahrenheitParaCelsius(temperatura):
-    temperaturaConvertida = (temperatura - 32) * 5 / 9
+    temperaturaConvertida = ((temperatura - 32) * 5) / 9
     return temperaturaConvertida
 
 
